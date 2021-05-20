@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dad2d9e861ce04ceab99f6e98fbd0868
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - takeDamageSound: {instanceID: 0}
+  - rightHitParticles: {instanceID: 0}
+  - wrongHitParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
